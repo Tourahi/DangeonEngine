@@ -1,0 +1,33 @@
+#Ignore compiled javascript #
+######################
+.baseDir.ts
+/src/engine/*.js
+TestsSpec.js
+TestsSpec.js.map
+node_modules/
+node_cache/
+/bower_components/
+coverage/
+.grunt/
+.tscache/
+tscommand*
+/docs/api/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Build
+.vs/
+build/
+build-storybook/
+bld/
+bin/
+obj/
+.tsbuildinfo
+*.user
+*.suo
+*.map
+*.orig

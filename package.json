@@ -1,0 +1,22 @@
+{
+  "name": "dangeonengine",
+  "version": "0.0.0",
+  "description": "2D game engine for a web D&D like game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tourahi/DangeonEngine.git"
+  },
+  "author": "T.Amine",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Tourahi/DangeonEngine/issues"
+  },
+  "homepage": "https://github.com/Tourahi/DangeonEngine#readme",
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
